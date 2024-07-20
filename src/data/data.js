@@ -24,4 +24,40 @@ export const data = [
         name: "Pedro",
         email: "pedro@example.com"
     },
+    {
+        idade:25,
+        name:"Reginaldo",
+        email:"Reginaldo@gmail.com"
+    },
+    {
+        idade:25,
+        name:"Yuran",
+        email:"yuran@gmail.com"
+    },
+    {
+        idade:25,
+        name:"Luis",
+        email:"luis@gmail.com"
+    },
+    {
+        idade:25,
+        name:"Joaquim",
+        email:"joaquim@gmail.com"
+    },
+    {
+        idade:25,
+        name:"Atalia",
+        email:"Atalia@gmail.com"
+    },
+    {
+        idade:25,
+        name:"Ricardina",
+        email:"Ricardina@gmail.com"
+    },
+    {
+        idade:25,
+        name:"Domingos",
+        email:"Domingos@gmail.com"
+    },
 ];
+,
