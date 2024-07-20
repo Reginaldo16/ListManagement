@@ -58,6 +58,6 @@ export const data = [
         idade:25,
         name:"Domingos",
         email:"Domingos@gmail.com"
-    },
+    }
 ];
-,
+
